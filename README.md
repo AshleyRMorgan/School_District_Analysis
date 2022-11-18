@@ -1,5 +1,11 @@
 # School_District_Analysis
 
+
+
+
+NEED TO FINISH
+
+
 ---
 
 ## Overview 
@@ -32,3 +38,15 @@ The purpose of this analysis was to determine how math and reading scores compar
 ### **How is the school summary affected?**
 
 -
+
+
+
+
+    
+---
+
+### **Contact**
+
+Email: [AshleyRae1219@gmail.com](mailto:ashleyrae1219@gmail.com)
+
+LinkedIn: [Ashley Morgan](https://www.linkedin.com/in/morganashleyr/)
